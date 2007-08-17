@@ -1,6 +1,6 @@
 %define name drakx-autoinstall-doc
 %define version 10.0.3
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary:        Auto Install Documentation for Drakx
 Name:           %{name}
@@ -19,7 +19,7 @@ This package contains the AutoInstall documents, in OpenOffice.org binary
 format, Post Script, PDF, one big HTML file and a HOWTO like set of smaller
 HTML files.
 
-The Mandrakelinux Distribution provides a facility, DrakX, which allows
+The Mandriva Linux Distribution provides a facility, DrakX, which allows
 for the automated installation on to computers that you use or manage.
 
 The DrakX graphic installer has the capability of being used in both the
