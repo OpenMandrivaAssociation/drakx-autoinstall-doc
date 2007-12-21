@@ -12,6 +12,7 @@ Source1:        so_split.tar.bz2
 License:        GFDL
 Group:          System/Configuration/Other
 BuildArch:      noarch
+BuildRoot:      %{_tmppath}/%{name}-buildroot
 
 %description
 This package contains the AutoInstall documents, in OpenOffice.org binary
