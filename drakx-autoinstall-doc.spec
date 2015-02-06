@@ -1,6 +1,6 @@
 %define name drakx-autoinstall-doc
 %define version 10.0.3
-%define release %mkrel 7
+%define release 8
 
 Summary:        Auto Install Documentation for Drakx
 Name:           %{name}
