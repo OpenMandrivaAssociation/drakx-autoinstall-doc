@@ -6,7 +6,7 @@ Summary:        Auto Install Documentation for Drakx
 Name:           %{name}
 Version:        %{version}
 Release:        %{release}
-Url:            http://members.shaw.ca/mandrake
+Url:            https://members.shaw.ca/mandrake
 Source0:        drakx-autoinstall-doc.tar.bz2
 Source1:        so_split.tar.bz2
 License:        GFDL
